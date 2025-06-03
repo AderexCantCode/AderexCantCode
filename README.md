@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Kokiku**
+ 🔭 I’m currently working on **Linguini**
  
- 🌱 I’m currently learning **Javascript, PHP, Phyton**
+ 🌱 I’m currently learning **Javascript, PHP,**
 
  </div>
  
